@@ -22,7 +22,7 @@
   },
   "require": {
     "php": ">=5.6",
-    "inacho/php-credit-card-validator": "^1.0",
+    "freelancehunt/php-credit-card-validator": "^3.2",
     "sabre/xml": "^1.5",
     "guzzlehttp/guzzle": "^6.3"
   },
