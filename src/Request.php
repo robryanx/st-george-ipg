@@ -2,7 +2,7 @@
 
 namespace StGeorgeIPG;
 
-use Inacho\CreditCard;
+use Freelancehunt\Validators\CreditCard;
 use StGeorgeIPG\Exceptions\InvalidAttributeStatusException;
 use StGeorgeIPG\Exceptions\InvalidAttributeValueException;
 use StGeorgeIPG\Exceptions\InvalidCardDataException;
